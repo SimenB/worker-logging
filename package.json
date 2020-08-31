@@ -1,0 +1,7 @@
+{
+  "name": "worker-logging",
+  "devDependencies": {
+    "jest-worker": "^26.3.0",
+    "prettier": "^2.1.1"
+  }
+}
